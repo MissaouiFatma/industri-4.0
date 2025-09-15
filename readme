@@ -1,0 +1,5 @@
+Le projet consiste à concevoir un système qui acceptera des données liées à
+l’industrie 4.0 comme la température et l’humidité, etc... Puis les afficher dans un
+dashboard développé avec streamlit avec le langage python. L’étude du système a
+montré une necessité d’utiliser le protocole MQTT pour transmettre les données
+entre le dashboard et la carte ESP32
